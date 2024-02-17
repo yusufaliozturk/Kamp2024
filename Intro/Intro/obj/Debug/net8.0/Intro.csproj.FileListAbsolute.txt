@@ -12,4 +12,3 @@ C:\Users\yusuf\source\repos\Kamp2024\Intro\Intro\obj\Debug\net8.0\refint\Intro.d
 C:\Users\yusuf\source\repos\Kamp2024\Intro\Intro\obj\Debug\net8.0\Intro.pdb
 C:\Users\yusuf\source\repos\Kamp2024\Intro\Intro\obj\Debug\net8.0\Intro.genruntimeconfig.cache
 C:\Users\yusuf\source\repos\Kamp2024\Intro\Intro\obj\Debug\net8.0\ref\Intro.dll
-C:\Users\yusuf\source\repos\Kamp2024\Intro\Intro\obj\Debug\net8.0\Intro.sourcelink.json
