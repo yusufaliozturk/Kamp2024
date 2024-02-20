@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Intro\\Intro\\Intro.csproj": {}
+    "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Kodlamaio\\Kodlamaio\\Kodlamaio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Intro\\Intro\\Intro.csproj": {
+    "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Kodlamaio\\Kodlamaio\\Kodlamaio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Intro\\Intro\\Intro.csproj",
-        "projectName": "Intro",
-        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Intro\\Intro\\Intro.csproj",
+        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Kodlamaio\\Kodlamaio\\Kodlamaio.csproj",
+        "projectName": "Kodlamaio",
+        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Kodlamaio\\Kodlamaio\\Kodlamaio.csproj",
         "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Intro\\Intro\\obj\\",
+        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Belgeler\\GitHub\\Kamp2024\\Kodlamaio\\Kodlamaio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
